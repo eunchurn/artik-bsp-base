@@ -180,7 +180,7 @@ fi
 
 cat <<EOF
 
-Welcome to this Koan BSP for Yocto Project
+Welcome to this APROS MCDL BSP for Yocto Project
 
 The Yocto Project has extensive documentation about OE including a
 reference manual which can be found at:
